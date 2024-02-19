@@ -9,7 +9,7 @@ body {
 
 main {
     background-color: aliceblue;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.223);
@@ -17,4 +17,14 @@ main {
 
 img.lado {
     float: right;
+}
+
+h1 {
+    font-size: 32px;
+    color: rgb(89, 198, 162);
+}
+
+h2 {
+    font-size: 24px;
+    color: rgb(89, 198, 162);
 }
